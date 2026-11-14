@@ -1,0 +1,57 @@
+TT. SÖZLÜĞÜ (videolarda geçen terimlerden çıkarıldı - TASLAK, Yağız kontrol edecek)
+
+=== İSTATİSTİK TERİMLERİ ===
+
+Kilit pas: Takım arkadaşının doğrudan şut çekmesini sağlayan pas. Gol olmasa da fırsat yaratanı gösterir. Arda Güler'in en güçlü olduğu alan.
+
+90 dakika başına: Bir istatistiğin, oyuncunun oynadığı süreye bölünüp tam maça çevrilmiş hali. Az süre alan oyuncuyu çok oynayanla adil kıyaslamak için kullanılır.
+
+İkili mücadele: İki oyuncunun topa sahip olmak için birebir karşılaştığı an. Kazanılan ikili mücadele, oyuncunun fiziksel ve savaşçı yanını gösterir.
+
+Başarılı çalım (dribbling): Oyuncunun top ayağındayken rakibini geçmesi. Sadece deneme değil, geçmeyi başardığı çalımlar sayılır.
+
+Top kaybı: Topu rakibe kaptırmak. Risk alan, çok çalım deneyen oyuncularda yüksek çıkar; tek başına kötü oyun anlamına gelmez.
+
+Pas isabeti: Atılan pasların yüzde kaçının takım arkadaşına ulaştığı. Güvenli pas oynayan orta sahalarda yüksek, risk alan yaratıcılarda daha düşüktür.
+
+Reyting: Oyuncunun maçtaki tüm istatistiklerinden hesaplanan 0-10 arası puan. 6.5 altı zayıf, 7.5 üstü iyi bir maç olarak okunur.
+
+Gol + asist: Bir oyuncunun skora doğrudan katkısı. Hücum oyuncusunu değerlendirmenin en hızlı ama en yüzeysel yolu.
+
+Piyasa değeri: Oyuncunun transfer piyasasında tahmini değeri (genelde Transfermarkt). Yaş, form ve potansiyelle değişir.
+
+=== TAKIM VE KARİYER TERİMLERİ ===
+
+İlk on bir: Maça başlayan 11 oyuncu. "Vazgeçilmez ilk on bir" hocanın rotasyonda bile kenara almadığı oyuncu demektir.
+
+Rotasyon: Yoğun fikstürde oyuncuları dinlendirmek için kadroyu değiştirmek. Kilit oyuncunun rotasyona girmesi takımı zayıflatabilir.
+
+Altyapı: Kulübün genç oyuncu yetiştirdiği akademi. Cherki Lyon, Kenan Bayern, Arda Fenerbahçe altyapısından çıktı.
+
+B takım / A takım: B takım genç oyuncuların profesyonel futbola alıştığı ikinci takım. A takıma yükselmek gerçek kariyerin başlangıcı sayılır.
+
+Bonservis: Bir oyuncunun kulübünden ayrılması için ödenen transfer bedeli. Rekor bonservis, kulübün o güne kadarki en yüksek satışı demektir.
+
+10 numara: Oyun kurucu, takımın en yaratıcı oyuncusunun forması. Juventus gibi kulüplerde liderlik sembolüdür.
+
+Kaptan: Sahada takımı temsil eden, pazubantlı oyuncu. Kaptanlık hem saygı hem sorumluluk göstergesi.
+
+Deplasman: Rakibin sahasında oynanan maç. Rakip taraftar baskısı yüzünden genelde daha zordur.
+
+=== POZİSYON VE OYUN TERİMLERİ ===
+
+Orta saha: Savunma ile hücum arasındaki bölgede oynayan oyuncular. Pedri ve Vitinha oyunu yönlendiren, Arda ise daha çok fırsat yaratan tipte orta sahadır.
+
+Oyun kurucu: Takımın atağını organize eden, son pası veren oyuncu. Kilit pas sayısı oyun kurucunun en önemli ölçüsüdür.
+
+Forvet / santrfor: Takımın en öndeki, golü bitirmekle görevli oyuncusu. Osimhen ve Dzeko klasik santrforlardır.
+
+=== VERİ (STATSBOMB) TERİMLERİ - ajanın kullandığı ===
+
+Top kazanma (Ball Recovery): Sahipsiz ya da yarım kalmış topu ele geçirmek.
+
+Pas arası (Interception): Rakibin pasını keserek topu almak. Top kazanma ile birlikte savunma katkısını gösterir.
+
+Baskı (Pressure): Top sahibine yakın mesafeden baskı yapmak. Gol ya da top kazanmayla sonuçlanmasa da rakibi hataya zorlar.
+
+xG (beklenen gol): Bir şutun gol olma ihtimali (0-1 arası). Uzak ve dar açıdan şut düşük, penaltı noktasından şut yüksek xG'dir. Oyuncu xG'sinden fazla gol atıyorsa bitiriciliği iyidir.
