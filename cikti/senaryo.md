@@ -1,28 +1,36 @@
-# Senaryo: Messi – 2022 Dünya Kupası Finali
+# TT. Senaryo — Kylian Mbappé, 2022 Dünya Kupası Finali
 
-**Süre hedefi:** ~28-32 sn · 14 cümle · Kaynak: `analiz.md` + `tt_tarz.txt`
+**Maç:** Arjantin – Fransa, 2022 Dünya Kupası finali (match_id 3869685)
+**Tahmini süre:** 14 cümle, ~53 kelime → ≈ 21 saniye (2,5 kelime/sn)
 
 ## METİN
 
-1. Kulüpte her şeyi aldı, bir hayali hariç.
-2. O boşluk, Aralık'ta Katar'da doldu.
-3. Lionel Messi.
-4. 2022.
-5. Rakip Fransa.
-6. Açılışı beyaz noktadan yaptı.
-7. Ama Mbappé'den peş peşe karşılık.
-8. Uzatmalarda sahne kimin?
-9. Cevap belli: dönen ribaundu ağlara gönderdi.
-10. Skor 3-3, karar penaltılarda.
-11. Kupayı kaldıran kaptan, kendisiydi.
-12. Bizim kuşağımız bu geceyi hiç unutmayacak.
-13. Karnesinde 60 pas, 5 şut, 7 top kazanma var.
-14. Gol hanesinde ise... 2.
+1. Finali kazanamadı ama sahanın en büyüğüydü.
+2. Kylian Mbappé.
+3. 2022.
+4. Arjantin'e karşı tek başına direniyor.
+5. Kaleyi defalarca yokladı.
+6. Tam 6 şut.
+7. Peki kaçı ağlara gitti?
+8. Yarısı... hat-trick.
+9. Uzatmalarda bile vazgeçmek yok.
+10. Savunmada da 7 top kaptı.
+11. Üstüne 27 pas.
+12. Hepimiz o gece ekrana kilitlendik.
+13. Kupa ise Messi'nin ellerinde...
+14. Madalya gümüş, hikâye altın: 3 gol.
 
 ## EKRAN GRAFİKLERİ
 
-- 2022 | LUSAIL | ARJANTİN – FRANSA
-- SKOR 3-3 → PENALTILAR
-- MESSİ FİNAL KARNESİ: PAS 60 | ŞUT 5 | TOP KAZANMA 7 | GOL 2
-- Kapak: `kapak.png` (şut haritası)
-- CTA: TT. BENZER İÇERİKLER VE DAHA FAZLASI İÇİN | TAKİP ET / ABONE OL | BEĞEN
+- 2022 DÜNYA KUPASI FİNALİ | ARJANTİN – FRANSA
+- KAÇ ŞUT? 6 | KAÇ GOL? 3
+- KYLIAN MBAPPÉ | FİNAL PERFORMANSI | GOL 3 | ŞUT 6 | PAS 27 (toplam pas)
+- TOP KAZANMA | FRANSA: 1 TCHOUAMÉNI 15 | 2 RABIOT 7 | 2 MBAPPÉ 7
+- ŞUT HARİTASI (kapak.png) — goller dolu sarı, nokta boyutu xG
+
+## CTA
+
+TT. BENZER İÇERİKLER VE DAHA FAZLASI İÇİN | TAKİP ET / ABONE OL | BEĞEN
+
+---
+*Rakamlar penaltı atışları hariçtir (resmi maç istatistiği). Penaltı atışları dahil: 7 şut, 4 gol.*
