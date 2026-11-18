@@ -1,0 +1,86 @@
+[
+  {
+    "no": 1,
+    "soru": "2022 Dünya Kupası finalinde Messi kaç gol attı? (penaltı atışları hariç)",
+    "cevap": "2022 Dünya Kupası finalinde Lionel Messi, penaltı atışları hariç 2 gol atmıştır.",
+    "hata": "",
+    "sure_sn": 14.1
+  },
+  {
+    "no": 2,
+    "soru": "2022 Dünya Kupası finalinde Mbappé kaç şut attı?",
+    "cevap": "2022 Dünya Kupası finalinde Kylian Mbappé 6 şut atmıştır.",
+    "hata": "",
+    "sure_sn": 14.6
+  },
+  {
+    "no": 3,
+    "soru": "2022 Dünya Kupası finalinde Di María kaç pas yaptı?",
+    "cevap": "2022 Dünya Kupası finalinde Ángel Di María 29 pas yapmıştır.",
+    "hata": "",
+    "sure_sn": 10.9
+  },
+  {
+    "no": 4,
+    "soru": "Euro 2024 finalinde Lamine Yamal kaç pas yaptı?",
+    "cevap": "Euro 2024 finalinde Lamine Yamal toplam 36 pas yapmıştır.",
+    "hata": "",
+    "sure_sn": 15.6
+  },
+  {
+    "no": 5,
+    "soru": "Euro 2024 finalinde Nico Williams kaç şut attı?",
+    "cevap": "Euro 2024 finalinde Nico Williams 3 şut atmıştır.",
+    "hata": "",
+    "sure_sn": 28.6
+  },
+  {
+    "no": 6,
+    "soru": "Euro 2024 finalinde Oyarzabal kaç gol attı?",
+    "cevap": "Euro 2024 finalinde Mikel Oyarzabal 1 gol atmıştır.",
+    "hata": "",
+    "sure_sn": 15.7
+  },
+  {
+    "no": 7,
+    "soru": "2022 Dünya Kupası finalinde Fransa'da en çok top kazanan oyuncu kaç pas yaptı?",
+    "cevap": "2022 Dünya Kupası finalinde Fransa'da en çok top kazanan oyuncu olan Aurélien Tchouaméni, maç boyunca 69 pas yapmıştır.",
+    "hata": "",
+    "sure_sn": 16.2
+  },
+  {
+    "no": 8,
+    "soru": "Euro 2024 finalinde İspanya'da en çok top kazanan oyuncu kaç şut attı?",
+    "cevap": "Euro 2024 finalinde İspanya adına en çok top kazanan oyuncu olan Fabián Ruiz Peña, maç boyunca 2 şut atmıştır.",
+    "hata": "",
+    "sure_sn": 17.3
+  },
+  {
+    "no": 9,
+    "soru": "Euro 2024 finalinde İngiltere'de en çok top kazanan oyuncu kaç şut attı?",
+    "cevap": "Euro 2024 finalinde İngiltere adına en çok top kazanan oyuncu olan Declan Rice maçta 3 şut atmıştır.",
+    "hata": "",
+    "sure_sn": 14.1
+  },
+  {
+    "no": 10,
+    "soru": "2022 Dünya Kupası finalinde Messi kaptanlık pazubandı taktı mı?",
+    "cevap": "Evet, Lionel Messi 2022 Dünya Kupası finalinde Arjantin'in kaptanı olarak sahaya çıkmış ve kaptanlık pazubandı takmıştır.",
+    "hata": "",
+    "sure_sn": 15.8
+  },
+  {
+    "no": 11,
+    "soru": "Euro 2024 finalinde Lamine Yamal toplam kaç kilometre koştu?",
+    "cevap": "StatsBomb açık verilerinde takip verisi bulunmadığından Lamine Yamal'ın Euro 2024 finalinde koştuğu toplam kilometre bilgisi mevcut değildir.",
+    "hata": "",
+    "sure_sn": 26.3
+  },
+  {
+    "no": 12,
+    "soru": "Euro 2024 finalini stadyumda kaç seyirci izledi?",
+    "cevap": "StatsBomb açık verilerinde ve tt MCP araçlarında Euro 2024 finalini stadyumda izleyen seyirci sayısı yer almamaktadır.",
+    "hata": "",
+    "sure_sn": 17.3
+  }
+]

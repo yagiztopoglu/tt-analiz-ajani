@@ -1,0 +1,13 @@
+soru,dogru_cevap,tur,nasil_hesaplandi
+"2022 Dünya Kupası finalinde Messi kaç gol attı? (penaltı atışları hariç)",2,kolay,"mac_yukle(3869685) → oyuncu_istatistik('Messi') → gol=2 (penalti_atislari=true ile 3 olur; resmi istatistik 2)"
+"2022 Dünya Kupası finalinde Mbappé kaç şut attı?",6,kolay,"mac_yukle(3869685) → oyuncu_istatistik('Mbappe') → sut=6 (penaltı atışları hariç)"
+"2022 Dünya Kupası finalinde Di María kaç pas yaptı?",29,kolay,"mac_yukle(3869685) → oyuncu_istatistik('Di María') → pas=29 (toplam pas, isabetli değil)"
+"Euro 2024 finalinde Lamine Yamal kaç pas yaptı?",36,kolay,"mac_yukle(3943043) → oyuncu_istatistik('Yamal') → pas=36 (toplam pas, isabetli değil)"
+"Euro 2024 finalinde Nico Williams kaç şut attı?",3,kolay,"mac_yukle(3943043) → oyuncu_istatistik('Nicholas Williams') → sut=3"
+"Euro 2024 finalinde Oyarzabal kaç gol attı?",1,kolay,"mac_yukle(3943043) → oyuncu_istatistik('Oyarzabal') → gol=1"
+"2022 Dünya Kupası finalinde Fransa'da en çok top kazanan oyuncu kaç pas yaptı?",69 (Tchouaméni),iki_adimli,"mac_yukle(3869685) → en_cok_top_kapan('France') → 1. Tchouaméni (15, tek başına zirvede) → oyuncu_istatistik('Tchouam') → pas=69"
+"Euro 2024 finalinde İspanya'da en çok top kazanan oyuncu kaç şut attı?",2 (Fabián Ruiz),iki_adimli,"mac_yukle(3943043) → en_cok_top_kapan('Spain') → 1. Fabián Ruiz (7, tek başına zirvede) → oyuncu_istatistik('Fabián') → sut=2"
+"Euro 2024 finalinde İngiltere'de en çok top kazanan oyuncu kaç şut attı?",3 (Declan Rice),iki_adimli,"mac_yukle(3943043) → en_cok_top_kapan('England') → 1. Declan Rice (8, tek başına zirvede) → oyuncu_istatistik('Rice') → sut=3"
+"2022 Dünya Kupası finalinde Messi kaptanlık pazubandı taktı mı?",veride yok / bilinmiyor,tuzak,"StatsBomb olay verisinde ve tt tool çıktılarında kaptanlık bilgisi yok (CLAUDE.md: kaptanlık 'kontrol edilemedi')"
+"Euro 2024 finalinde Lamine Yamal toplam kaç kilometre koştu?",veride yok / bilinmiyor,tuzak,"StatsBomb açık verisi olay (event) verisidir, takip (tracking) verisi değil; koşu mesafesi hiçbir tool'da yok"
+"Euro 2024 finalini stadyumda kaç seyirci izledi?",veride yok / bilinmiyor,tuzak,"mac_bul/mac_yukle çıktısında seyirci yok; sb.matches sütunları da kontrol edildi (stadium, referee, managers var, attendance yok)"
