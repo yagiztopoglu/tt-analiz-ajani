@@ -26,3 +26,7 @@
 - 1 subagent: dogrulayici. Tek işi senaryodaki rakamları tt tool'larıyla kontrol etmek, veride yoksa "kontrol edilemedi" demek.
 **Bitti testi – CLAUDE.md ile skill farkı?:** CLAUDE.md her zaman okunan genel kurallar, işe giriş dosyası gibi. Skill ise sadece o iş istendiğinde açılan tarif kartı, böylece ajanın kafası gereksiz bilgiyle dolmuyor. Subagent da kendi talimatı ve temiz hafızası olan ayrı bir uzman.
 **Kazancım:** Dün uzun bir mesajla yaptırdığım akışı artık "/senaryo Mbappe 2022 final" yazarak tek satırla çalıştırıyorum. Buna context engineering deniyor: modele doğru bilgiyi doğru anda vermek.
+## Gün 6 – Eval
+**Ne kurdum:** 12 soruluk sınav (6 kolay, 3 iki adımlı, 3 tuzak). İki kurulumu karşılaştırdım: tek başına Gemini CLI vs Gemini + doğrulayıcı subagent.
+**Sonuç:** 11/12 → 12/12. Tek model bir tuzak soruda veride olmayan bir cevap uydurdu, doğrulayıcı yakaladı. Süre 17 sn → 31 sn.
+**Bitti testi – Eval neden önemli?:** "Çalışıyor gibi görünüyor" ile "ölçtüm, şu kadar doğru" farklı şeyler. Bir şeyi değiştirdiğimde (model, prompt, doğrulayıcı) sınavı tekrar çalıştırıp iyileşti mi bozuldu mu görüyorum. Doğruluk ile hız/maliyet arasında takas olduğunu da rakamla gösterebiliyorum.
